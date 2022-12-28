@@ -3,6 +3,13 @@
 공부한것들을 Repositories 별로 정리한 url 
 https://github.com/Ljaewon-123/README
 
+<h2 align="center"> 실무 </h2>
+</br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a> &nbsp
+
 <h3 align="center"><b>🛠 사용해본적있거나_공부한것들 🛠</b></h3>
 </br>
 <p align="center">
