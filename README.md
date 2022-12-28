@@ -1,5 +1,7 @@
 ### Hello
 
+# jaewon아!! 올해는 sideProject 좀 해라!!!
+
 공부한것들을 Repositories 별로 정리한 url 
 https://github.com/Ljaewon-123/README
 
