@@ -2,8 +2,8 @@
 
 #
 
-공부한것들을 Repositories 별로 정리한 url 
-https://github.com/Ljaewon-123/README
+<!-- 공부한것들을 Repositories 별로 정리한 url  -->
+<!-- https://github.com/Ljaewon-123/README -->
 
 <h2 align="center"> 실무 </h2>
 </br>
