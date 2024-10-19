@@ -1,19 +1,7 @@
-#
-
-<!-- 공부한것들을 Repositories 별로 정리한 url  -->
-<!-- https://github.com/Ljaewon-123/README -->
-
 <!-- <h2 align="center"> 실무 </h2> -->
 </br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a> &nbsp
 
-
-#
-
-<!--  <h3 align="center"><b>🛠 사용해본적있거나_공부한것들 🛠</b></h3>
+<!--  <h3 align="center"><b>🛠 Tools 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
@@ -42,12 +30,40 @@
 </p>
 -->
 
+# <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
-<!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
+### 👨‍💻 Programming Languages
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,ts,js " />
+  </a>
+</p>
 
 
+### 🧰 Frameworks and Libraries
 
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,nodejs,vite,vue,pinia,vuetify,nestjs,nuxtjs" />
+  </a>
+</p>
 
+### 🗄️ Databases
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,redis" />
+  </a>
+</p>
+
+### Utilities
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vim" />
+  </a>
+</p>
 
 <!--
 **Ljaewon-123/Ljaewon-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
