@@ -53,7 +53,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,mongodb" />
   </a>
 </p>
 
