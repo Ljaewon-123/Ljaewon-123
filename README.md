@@ -65,12 +65,12 @@
   </a>
 </p>
 
-
+<!-- 
 ### Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascript,html,css)
 
-<!-- 
+
 ### 
 ![Ljaewon-123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ljaewon-123&show_icons=true&theme=radical)
 -->
