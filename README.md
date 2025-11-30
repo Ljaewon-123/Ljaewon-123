@@ -36,7 +36,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js " />
+    <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,py,go,dart " />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,vite,vue,pinia,vuetify,nestjs,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,nuxtjs,django,vite,vue,electron,flutter" />
   </a>
 </p>
 
